@@ -1,4 +1,4 @@
-<h1>A Flask-based web application to detect potentially harmful URLs.</h1>
+<h1> web application to detect potentially harmful URLs.</h1>
 <h2>Introduction</h2>
 <p>This project aims to provide a user-friendly web application that can analyze URLs and identify potential phishing attempts or malicious websites. By leveraging various techniques and data sources, users can make more informed decisions about the safety of online content.
 </p>
